@@ -1,0 +1,6 @@
+[submodule "NAnonym"]
+	path = NAnonym
+	url = git@github.com:urasandesu/NAnonym.git
+[submodule "Pontine"]
+	path = Pontine
+	url = git@github.com:urasandesu/Pontine.git
