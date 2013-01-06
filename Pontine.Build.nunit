@@ -1,0 +1,6 @@
+﻿<NUnitProject>
+  <Settings activeconfig="Debug" />
+  <Config name="Debug" appbase="Bin\Debug" configfile="Test.Urasandesu.Pontine.dll.config" binpathtype="Auto">
+    <assembly path="Test.Urasandesu.Pontine.dll" />
+  </Config>
+</NUnitProject>
